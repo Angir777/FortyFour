@@ -1,6 +1,6 @@
 # FortyFour - WordPress Theme
 
-![My Image](https://github.com/Angir777/fortyfour/blob/master/assets/images/screen.jpg)
+![My Image](https://github.com/Angir777/fortyfour/blob/main/assets/images/screen.jpg)
 
 Login: admin
 Password: admin
