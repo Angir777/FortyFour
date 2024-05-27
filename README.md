@@ -1,5 +1,7 @@
 # FortyFour - WordPress Theme
 
+Template for a company website with a blog.
+
 ![My Image](https://github.com/Angir777/fortyfour/blob/main/assets/images/screen.jpg)
 
 Login: admin
