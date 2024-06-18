@@ -45,7 +45,7 @@
                 $locale_parts = explode('_', $current_language);
                 $language_code = $locale_parts[0];
                 $args = [
-                    'post_type' => 'slider-' . $language_code,
+                    'post_type' => 'slider_' . $language_code,
                 ];
                 $query = new WP_Query($args);
             ?>
